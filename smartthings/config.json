@@ -20,7 +20,6 @@
     },
     "schema": {
         "broker_host": "str",
-        "broker_port": "int",
         "preface": "str",
         "state_suffix": "str",
         "command_suffix": "str",
